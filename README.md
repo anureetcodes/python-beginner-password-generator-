@@ -1,4 +1,5 @@
-hey there
+# Python Beginner Password Generator
+ Hey there.
 This is a beginner Python project that generates a random password using letters, numbers and symbols.
 
 ## Features
@@ -28,3 +29,11 @@ How many numbers would you like?
 
 Your password is: aB3$kT9!p
 Password Strength: Strong
+## How to Run the Program
+
+1. Install Python on your computer
+2. Download the repository
+3. Open the file password_generator.py
+4. Run the program in terminal or PyCharm
+
+The program will ask how many letters, numbers and symbols you want and it will  generate a random password.
